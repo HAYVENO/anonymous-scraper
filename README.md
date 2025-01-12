@@ -8,7 +8,7 @@ The `anonymous-scraper` repository provides code examples for anonymous web scra
 
 It also includes Incogniton fingerprint trustworthiness tests using tools like [IPHey](https://iphey.com/), [FingerprintPro](https://fingerprint.com/), and [SannySoft](https://sannysoft.com/), as well as a non-headless browser file so you can see how the automation process in action.
 
-**Fingerprint Trustworthiness Tests**
+### Fingerprint Trustworthiness Tests
 
 | Test        | Description                                                                                   |
 |-------------|-----------------------------------------------------------------------------------------------|
