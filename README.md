@@ -1,6 +1,6 @@
 ## Project Overview
 
-The `anonymous-scraper` repository provides code examples for anonymous web scraping using Node.js. It covers two tiers of scraping techniques:
+The project provides code examples for the [anonymous web scraping using Node.js](ha) article. It covers two tiers of scraping techniques:
 
 - **Tier 1**: Scraping static websites with Cheerio and user-agent rotation.
 
