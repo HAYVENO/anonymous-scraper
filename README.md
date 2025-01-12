@@ -6,7 +6,7 @@ The `anonymous-scraper` repository provides code examples for anonymous web scra
 
 - **Tier 2**: Scraping dynamic websites with Puppeteer and Incogniton, including pagination handling.
 
-It also includes Incogniton fingerprint trustworthiness tests using tools like [IPHey](https://iphey.com/), [FingerprintPro](https://fingerprint.com/), and [SannySoft](https://sannysoft.com/), as well as a non-headless browser file so you can see how the automation process in action.
+It also includes Incogniton fingerprint trustworthiness tests using tools like [IPHey](https://iphey.com/), [FingerprintPro](https://fingerprint.com/), and [SannySoft](https://bot.sannysoft.com/), as well as a non-headless browser file so you can see how the automation process in action.
 
 ## Getting Started
 
