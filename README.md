@@ -8,16 +8,6 @@ The `anonymous-scraper` repository provides code examples for anonymous web scra
 
 It also includes Incogniton fingerprint trustworthiness tests using tools like [IPHey](https://iphey.com/), [FingerprintPro](https://fingerprint.com/), and [SannySoft](https://sannysoft.com/), as well as a non-headless browser file so you can see how the automation process in action.
 
-### Fingerprint Trustworthiness Tests
-
-| Test        | Description                                                                                   |
-|-------------|-----------------------------------------------------------------------------------------------|
-| **IPHey**   | Analyzes your browser's digital identity to determine its trustworthiness.  |
-| **FingerprintPro** | Provides browser fingerprinting demo to identify users even when you using Incognito mode.  |
-| **SannySoft**   | Evaluates whether a browser is being controlled by automation tools like Puppeteer or Selenium. |
-
-
-
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -65,5 +55,13 @@ Or you can run the test file directly from the root folder:
 >Replace `test-file.js` or `anon-scraper2.js` with the specific file name you wish to execute.
 
 **Note**: Before running the scripts, review the code and any associated configuration files to ensure they are set up correctly for your target websites and comply with their terms of service.
+
+### Fingerprint Trustworthiness Tests
+
+| Test        | Description                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------|
+| **IPHey**   | Analyzes your browser's digital identity to determine its trustworthiness.  |
+| **FingerprintPro** | Provides browser fingerprinting demo to identify users even when you using Incognito mode.  |
+| **SannySoft**   | Evaluates whether a browser is being controlled by automation tools like Puppeteer or Selenium. |
 
 For more information and guidance, refer to the [original article](https://hayven.dev/blog/x-scrape) associated with this repository.
