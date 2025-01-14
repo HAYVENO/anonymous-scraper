@@ -1,6 +1,6 @@
 ## Project Overview
 
-The project provides code examples for the [anonymous web scraping using Node.js](ha) article. It covers two tiers of scraping techniques:
+The project provides code examples for the [anonymous web scraping using Node.js](https://medium.com/@haythepen/anonymous-web-scraping-using-node-js-incogniton-puppeteer-and-cheerio-791c80898e99) article. It covers two tiers of scraping techniques:
 
 - **Tier 1**: Scraping static websites with Cheerio and user-agent rotation.
 
