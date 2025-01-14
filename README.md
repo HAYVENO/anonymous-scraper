@@ -4,7 +4,7 @@ The project provides code examples for the [anonymous web scraping using Node.js
 
 - **Tier 1**: Scraping static websites with Cheerio and user-agent rotation.
 
-- **Tier 2**: Scraping dynamic websites with Puppeteer and Incogniton, including pagination handling.
+- **Tier 2**: Scraping dynamic websites using the [Incogniton](https://incogniton.com) API alongside puppeteer, including pagination handling.
 
 It also includes Incogniton fingerprint trustworthiness tests using tools like [IPHey](https://iphey.com/), [FingerprintPro](https://fingerprint.com/), and [SannySoft](https://bot.sannysoft.com/), as well as a **non-headless scraping mode** option so you can see how the automation process in action.
 
