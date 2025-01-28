@@ -10,7 +10,7 @@ const exportData = async () => {
     console.log('🚀 ~ exportData ~ scrapedData:', scrapedData);
 
     // WRITE EXPORT LOGIC HERE ↓
-    await exportToJSON(scrapedData);
+
     //
   } catch (error) {
     console.error('Error exporting data ->', error);
