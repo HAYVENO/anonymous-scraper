@@ -42,12 +42,15 @@ const fetchStaticData = async () => {
       products.push({ name, price });
     });
 
-    console.log('products ->', products);
+    return products;
   } catch (error) {
     // Handle errors
     console.error('Error scraping Data -->', error);
+    throw error;
   }
 };
 
 // Run the scraper function
-fetchStaticData();
+// fetchStaticData();
+
+export default fetchStaticData;

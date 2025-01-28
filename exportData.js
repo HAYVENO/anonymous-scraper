@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import { json2csv } from 'json-2-csv';
 
 // EXPORT DATA to JSON
-export const exportToJSON = async (data, filename = 'output.json') => {
+export const exportToJSON = async (data, filename = 'scraped-data.json') => {
   try {
     // prettified JSON output
     await fs.writeFile(filename, JSON.stringify(data, null, 2), 'utf-8');
